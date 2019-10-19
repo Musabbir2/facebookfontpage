@@ -1,0 +1,30 @@
+.he{   background-color:rgba(17, 17, 182, 0.829);
+ 
+}
+ h1{
+     color:white;
+     font-size: 45px;
+     margin-left: 250px;
+ }  
+ .po
+ {
+    float: right;
+    list-style-type: none;
+    padding-right: 350px;
+    margin-top: -80px;
+    
+ } 
+ .in{
+    display: inline;
+ } 
+ .ri
+ {
+    float: right;
+    list-style-type: none;
+    padding-right: 100px;
+    margin-top:-60px;
+ }
+ #f{
+     font-size:40px ;
+ }
+  
